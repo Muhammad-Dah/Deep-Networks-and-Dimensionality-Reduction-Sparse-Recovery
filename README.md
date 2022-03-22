@@ -1,6 +1,6 @@
 # Connection Between Deep Networks and Dimensionality Reduction/Sparse Recovery
 
-<img width="686" alt="1" src="https://user-images.githubusercontent.com/37774604/159548188-917568fd-596e-4900-9a45-2377dbbb71bf.png">
+<img width="1397" alt="1" src="https://user-images.githubusercontent.com/37774604/159548380-df477c0a-8775-41ec-8459-dce9d461a59b.png">
 
 
 # References
